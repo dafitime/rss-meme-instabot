@@ -1,8 +1,8 @@
-# PrickledHerald-Instabot
+# RSS Meme Instabot
 
 This is an Instagram bot for posting images with captions, automatically generating content from articles, and handling image processing.
 
-The program was written for Prickled Herald (prickledherald.com) and was used for social media purposes. The GUI should allow you to change articles and extract data from a website that provides an RSS feed.
+The program was written for a satire news site and was used for social media purposes. The GUI should allow you to change articles and extract data from a website that provides an RSS feed.
 
 Future versions will allow you to input any website that should contain an RSS feed and extract the data from there.
 
@@ -12,8 +12,8 @@ Change the logo.png to your choosing. Logo is currently 300 x 300px.
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/dafitime/prickledherald-instabot.git
-cd prickledherald-instabot
+git clone https://github.com/dafitime/rss-meme-instabot.git
+cd rss-meme-instabot
 ```
 
 ### **2. Create a Virtual Environment (Optional but Recommended)**
